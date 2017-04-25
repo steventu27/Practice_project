@@ -44,8 +44,8 @@ def main():
     url='http://sz.lianjia.com/ershoufang/pg'
     n=5
     houseList=getTotalHouse(url,n)
-    temp=pd.DataFrame(houseList)    #pandas 大法
-    temp.to_excel("/Users/Steven/Desktop/house_info_sz.xlsx")
+    # temp=pd.DataFrame(houseList)    #pandas 大法
+    pd.DataFrame(houseList).to_excel("/Users/Steven/Desktop/house_info_sz.xlsx")
 
 if __name__ == '__main__':
     main()
