@@ -4,4 +4,4 @@
 * Find the first page info, concluding 10 positions' infos. We can gain every position's html and some infos like position name and company name
 * In each second page, extract the info you want into a dict
 * DataFrame it and export into excel  
-![](picture/xlsx.png)
+![](xlsx.png)
