@@ -7,4 +7,4 @@ In order to learn better and find a quant job in future, I write a spider to ext
 
 Hoping everyone can get a good job after graduation.  
 
-![image](https://github.com/Ventotu/Practice_project/blob/master/USC_quant_class_2017fall /image/class.png)
+![image](https://github.com/Ventotu/Practice_project/blob/master/USC_quant_class_2017fall%20/image/class.png)
